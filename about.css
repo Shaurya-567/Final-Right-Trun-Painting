@@ -378,6 +378,12 @@ body{
   padding: 120px 0;
 
 }
+  
+  .main4max1:hover{
+    width:90%
+      padding: 2% 2%;
+  }
+    
 .main5-top{
   padding: 50px 10px;
   text-align: center;
