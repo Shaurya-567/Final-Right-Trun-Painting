@@ -36,6 +36,9 @@ font-family: 'Antic Slab',Georgia,"Times New Roman",serif;
   align-self: center;
   z-index: -5;
   
+  background-position: center;
+   background-attachment: unset;
+    background-blend-mode: overlay;
  
   
   text-align: center;
