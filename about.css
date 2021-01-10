@@ -379,10 +379,8 @@ body{
   padding: 120px 0;
 
 }
-  
-  .main4max1:hover{
+.main4max1:hover{
     width:90%
-      padding: 2% 2%;
   }
     
 .main5-top{
@@ -419,11 +417,13 @@ body{
   display: block;
   margin-bottom: 30px ;
 }
-.main4max1{
+.main4max1
+  {
   margin: 10px ;
   width: 90%;
 }
-.main4max1 p {
+.main4max1 p 
+ {
 padding: 0px ;
 margin-bottom: 30px ;
 }
