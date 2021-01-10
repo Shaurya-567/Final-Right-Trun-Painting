@@ -17,7 +17,7 @@ header{
   max-width: 100%;
   background-color: rgba(0,0,0,0.5);
   height: 600px;
-  
+     background-position: center;
   background-attachment:unset;
   background-blend-mode: overlay;
 
