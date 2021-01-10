@@ -16,6 +16,7 @@ body{
   background-color: rgba(0,0,0,0.5);
   height: 600px;
   background-attachment:unset;
+    background-position: center;
   background-blend-mode: overlay;
 
 }
